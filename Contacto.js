@@ -492,7 +492,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Loads the URL in a new browser window.
 		*/
-		window.open('Index.html', '_self');
+		window.open('index.html', '_self');
 		});
 		
 		

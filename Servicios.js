@@ -1122,7 +1122,7 @@ if (reversed == null) { reversed = false; }
 		_this.stop(); 
 		
 		// --- NAVEGACIÓN ---
-		_this.InicioBTN.on('click', function(){ window.open('Index.html', '_self'); });
+		_this.InicioBTN.on('click', function(){ window.open('index.html', '_self'); });
 		_this.ServiciosBTN.on('click', function(){ window.open('Servicios.html', '_self'); });
 		_this.NosotrosBTN.on('click', function(){ window.open('Nosotros.html', '_self'); });
 		_this.ProyectosBTN.on('click', function(){ window.open('Proyectos.html', '_self'); });
